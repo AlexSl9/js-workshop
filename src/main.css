@@ -1,0 +1,14 @@
+body{
+background-color: aqua;
+}
+.main{
+background-color: brown;
+border: 5px dashed black;
+text-align: center;
+} 
+#main{
+    position: absolute;
+    width: 200px;
+    left:50%;
+    top:50%;
+}
